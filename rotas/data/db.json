@@ -1,0 +1,36 @@
+
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Camisa",
+        "price": 59.9
+      },
+      {
+        "id": 2,
+        "name": "Calça vermelha",
+        "price": 90
+      },
+      {
+        "id": 3,
+        "name": "Boné aba reta",
+        "price": 71.15
+      },
+      {
+        "id": 4,
+        "name": "Cueca",
+        "price": 100
+      },
+      {
+        "id": 5,
+        "name": "Pijama",
+        "price": 945
+      },
+      {
+        "id": 6,
+        "name": "Tesoura",
+        "price": 33.55
+      }
+    ]
+  }
+  
